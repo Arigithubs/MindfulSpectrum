@@ -38,6 +38,19 @@ nav a:hover {
     background-color: #366ab5; /* Darker shade for hover effect */
 }
 
+section {
+    padding: 20px;
+    margin: 20px 0;
+}
+
+#color-psychology {
+    background-color: #e0e0e0; /* Light grey background */
+    /* Add more styles as needed */
+}
+
+/* Repeat for other sections with different styles */
+
+
 @media (max-width: 600px) {
     nav a {
         display: block;
